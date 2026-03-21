@@ -20,7 +20,7 @@ in this repository , i put all bugs i found in all websites
 - results : [leaks.txt](https://github.com/Ibrahimibrahimi/bug-bounty-leaks-in-websites/blob/main/chari.com-results.txt)
 ## 4. IDOR in request at **lichess.org**
 - probability to be an _IDOR_ (im not 100% sure)
-- [request result](https://github.com/Ibrahimibrahimi/bug-bounty-leaks-in-websites/blob/main/chari.com-results.txt)
+- Results : [results lichess](https://github.com/Ibrahimibrahimi/bug-bounty-leaks-in-websites/blob/main/lichess%20foundations.txt)
   ### Task :
     1. Analyse the hex hash in the middle
     2. the hash origin is a _base64_ encrypted
