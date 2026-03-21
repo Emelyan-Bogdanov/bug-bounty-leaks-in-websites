@@ -18,3 +18,10 @@ in this repository , i put all bugs i found in all websites
 - the website is made by phpmyadmin
 - leaks & access public for folders like chari.com/mysql ... 
 - results : [leaks.txt](https://github.com/Ibrahimibrahimi/bug-bounty-leaks-in-websites/blob/main/chari.com-results.txt)
+## 4. IDOR in request at **lichess.org**
+- probability to be an _IDOR_ (im not 100% sure)
+- [request result](https://github.com/Ibrahimibrahimi/bug-bounty-leaks-in-websites/blob/main/chari.com-results.txt)
+  ### Task :
+    1. Analyse the hex hash in the middle
+    2. the hash origin is a _base64_ encrypted
+    3. result = base64(username|unkown hash|email)
