@@ -32,3 +32,8 @@ in this repository , i put all bugs i found in all websites
 ## 6. Can Create infinite emails using wordlist , found at [chessly](chessly.com) 
   - the plateform doesn't verify the emails or send a code verification
   - use the python file inside `/targets/chessly/create.... .py`
+## 7. free xp_farmer unlimited (xp_farmer.py)[https://github.com/Ibrahimibrahimi/bug-bounty-leaks-in-websites/blob/main/chessly.com/xp_farmer.py]
+  - you use the interval (2.5) to not get banned
+  - you extract the cookies from your account , and you replace it in the accoun
+  - you can read the same variation more than 5 times
+  - 
