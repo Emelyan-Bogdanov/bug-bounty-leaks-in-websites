@@ -1,0 +1,3 @@
+- id for user : 7330a0bd-5bd8-4a4a-b7d1-ee616edbd912 ==> received from https://cag.chessly.com/beta/users/current
+--------------- infinite xp ------------
+you send https://cag.chessly.com/beta/progress/openings/studies/variations/2c003a9b-648f-431f-8174-3051b8af7bea/drills/completion 
