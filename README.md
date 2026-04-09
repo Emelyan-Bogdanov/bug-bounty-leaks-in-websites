@@ -36,4 +36,4 @@ in this repository , i put all bugs i found in all websites
   - you use the interval (2.5) to not get banned
   - you extract the cookies from your account , and you replace it in the accoun
   - you can read the same variation more than 5 times
-  - wait like 3-7 minutes , so the system generate new uuid for the lessons (if you keep without waiting , you're litterally wasting your time , because you'll see somthing like Response Body: {"points":0,"challengePoints":0} , that means no points added)
+  - wait like 3-7 minutes , so the system generate new uuid for the lessons (`if you keep without waiting , you're litterally wasting your time , because you'll see somthing like Response Body: {"points":0,"challengePoints":0} , that means no points added`)
