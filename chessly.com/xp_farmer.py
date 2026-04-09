@@ -14,8 +14,9 @@ Steps to make the xp_farmer works well :
 
 
 # 1. setup the cookie after login , use your own cookie here (i used mine to test)
-# COOKIE = "_ga=GA1.1.984846494.1775748892; _ga_PNQ0H99BWZ=GS2.1.s1775748891$o1$g1$t1775750183$j57$l0$h0; __Secure-cst=kPbghwJjpcBShY83b6p_U3BCmiIvQSL30CozNcGqBlEM"
+DEFAULT_COOKIE = "_ga=GA1.1.984846494.1775748892; _ga_PNQ0H99BWZ=GS2.1.s1775748891$o1$g1$t1775750183$j57$l0$h0; __Secure-cst=kPbghwJjpcBShY83b6p_U3BCmiIvQSL30CozNcGqBlEM"
 COOKIE = input("Enter your cookie for account : ")
+COOKIE = DEFAULT_COOKIE if len(COOKIE) < 5 else COOKIE
 
 # function to get all courses available on the plateform , and get their uuids
 
