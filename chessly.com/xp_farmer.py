@@ -1,6 +1,7 @@
 # import all libraries
 import requests
 import json
+import time
 
 """ 
 ======================= README ===========================
@@ -112,6 +113,7 @@ for lessonUUID in lessons:
     parts = getVariations(lessonUUID)
     # 3. for each variation , make it as read
     for variationUUID in parts:
+        time.sleep(2.5) # wait 2.5 seconds to not get banned
         xp_from_lesson_part_uuid(variationUUID)
 
     """
