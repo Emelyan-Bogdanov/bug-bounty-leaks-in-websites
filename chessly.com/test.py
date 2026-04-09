@@ -2,9 +2,11 @@ import requests
 import time
 
 # Define your course UUID here
-course_uuid = "bdd25532-960a-4849-aa41-76284546610a"
+course_uuid = "c7c64750-503d-482c-a600-1555c090e51e"
 
 # Function to fetch variations data
+
+
 def fetch_variations(course_uuid):
     url = f"https://cag.chessly.com/beta/openings/courses/{course_uuid}/variations"
     headers = {
@@ -24,10 +26,13 @@ def fetch_variations(course_uuid):
     if response.status_code == 200:
         return response.json()
     else:
-        print(f"Failed to fetch variations. Status code: {response.status_code}")
+        print(
+            f"Failed to fetch variations. Status code: {response.status_code}")
         return None
 
 # Function to extract lesson UUIDs from the JSON response
+
+
 def extract_lesson_uuids(json_data):
     lesson_uuids = []
     for key in json_data:
@@ -37,6 +42,8 @@ def extract_lesson_uuids(json_data):
     return lesson_uuids
 
 # Function to send a request for each lesson UUID
+
+
 def process_lesson_uuid(lesson_uuid):
     url = f"https://cag.chessly.com/beta/progress/openings/studies/variations/{lesson_uuid}/drills/completion"
     headers = {
@@ -56,13 +63,16 @@ def process_lesson_uuid(lesson_uuid):
     print(f"Lesson UUID: {lesson_uuid} - Status Code: {response.status_code}")
     print("Response Body:", response.text)
 
+
 # Main execution
 for ifef in range(80):
     time.sleep(3)
-    print("first try n " , ifef)
+    print("first try n ", ifef)
     json_data = fetch_variations(course_uuid)
+    print(json_data)
+    lesson_uuids = None
     if json_data:
-            lesson_uuids = extract_lesson_uuids(json_data)
+        lesson_uuids = extract_lesson_uuids(json_data)
     for uuid in lesson_uuids:
-            process_lesson_uuid(uuid)
-            time.sleep(0.7)
+        process_lesson_uuid(uuid)
+        time.sleep(0.7)
