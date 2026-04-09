@@ -29,4 +29,6 @@ in this repository , i put all bugs i found in all websites
 - the website is based on *moodle* wich is open source
 - check the files inside [.gitignore](https://github.com/moodle/moodle/blob/main/.gitignore) and test them in website directory
 - use some fuff tools to save found directories
-- 
+## 6. Can Create infinite emails using wordlist , found at [chessly](chessly.com) 
+  - the plateform doesn't verify the emails or send a code verification
+  - use the python file inside `/targets/chessly/create.... .py`
