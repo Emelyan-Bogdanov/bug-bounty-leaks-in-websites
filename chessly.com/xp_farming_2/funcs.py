@@ -228,10 +228,10 @@ class ChesslyClient:
     # ── Auth ──────────────────────────────────────────────────────────────────
 
     def _login(self):
-        ga_cookie = generate_ga_cookies("PNQ0H99BWZ")
+        ga_cookie = "_ga=GA1.1.1543400676.1773361473; _ga_PNQ0H99BWZ=GS2.1.s1775923106$o9$g1$t1775925202$j41$l0$h0;" # generate_ga_cookies("PNQ0H99BWZ")
         response  = self._request("POST", "/login",
-                                  cookie=ga_cookie,
-                                  json={"email": self.email, "password": self.password})
+                                cookie=ga_cookie,
+                                json={"email": self.email, "password": self.password})
         cst = response.cookies.get("__Secure-cst")
         if not cst:
             raise ValueError("Login failed: __Secure-cst cookie not found in response.")

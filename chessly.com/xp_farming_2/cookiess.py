@@ -11,7 +11,6 @@ def generate_ga_cookies(
     cross_domain: int = 0,
     reserved: int = 0
 ) -> str:
-
     if client_id is None:
         client_id = random.randint(100_000_000, 1_999_999_999)
     if first_visit_timestamp is None:
