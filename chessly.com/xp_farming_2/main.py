@@ -1,4 +1,4 @@
-from funcs import getOpenningCourses, getCookies, getLegacyCourses, getProgressLesosns, readLesson
+from funcs import getOpenningCourses, getCookies, getLegacyCourses, getProgressLesosns, readLesson, countAllLessonsVariations
 import time
 
 cookies = getCookies()
@@ -11,9 +11,12 @@ progessLessons = getProgressLesosns(cookies)
 # group all of them
 allLessons = opLessons + LegacyLessons + progessLessons
 
+# count all existant lessons
+# print(countAllLessonsVariations(cookies))
+# exit()
 
 # start reading
 for lesson in range(len(allLessons)):
     print(f"============= [{lesson}] ==========")
-    readLesson(allLessons[lesson],cookies)
+    readLesson(allLessons[lesson], cookies)
     time.sleep(1)

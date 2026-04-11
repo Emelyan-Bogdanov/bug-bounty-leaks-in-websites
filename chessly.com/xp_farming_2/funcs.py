@@ -175,3 +175,14 @@ def getVariations(course_uuid,cookie):
         for lesson_id in nested_dict:
             lesson_uuids.extend(nested_dict[lesson_id])
     return lesson_uuids
+
+
+# count all variations for all lessons
+def countAllLessonsVariations(cookie):
+    allCourses = getLegacyCourses(cookie) + getOpenningCourses(cookie) + getProgressLesosns(cookie)
+    count = 0
+    for lesson in allCourses :
+        vr = getVariations(lesson,cookie)
+        if vr :
+            count += len(vr)
+    return count
