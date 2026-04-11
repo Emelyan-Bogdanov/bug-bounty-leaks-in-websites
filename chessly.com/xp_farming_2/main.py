@@ -15,5 +15,5 @@ allLessons = opLessons + LegacyLessons + progessLessons
 # start reading
 for lesson in range(len(allLessons)):
     print(f"============= [{lesson}] ==========")
-    readLesson(allLessons[lesson])
+    readLesson(allLessons[lesson],cookies)
     time.sleep(1)
