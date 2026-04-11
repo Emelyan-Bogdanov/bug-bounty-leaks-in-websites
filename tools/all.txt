@@ -1,0 +1,10 @@
+=== INSTALLED ===
+katana
+sqlmap
+httpx
+nuclei
+=== TO INSTALL ===
+arjun
+subfinder
+gf
+dalfox
