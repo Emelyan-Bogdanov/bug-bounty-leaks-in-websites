@@ -1,22 +1,24 @@
 from funcs import getOpenningCourses, getCookies, getLegacyCourses, getProgressLesosns, readLesson, countAllLessonsVariations
+from funcs import ChesslyClient
 import time
+import random
 
-cookies = getCookies()
 
-# extract all lessons
-opLessons = getOpenningCourses()
-LegacyLessons = getLegacyCourses()
-progessLessons = getProgressLesosns()
+# if __name__ == "__main__":
+#     client = ChesslyClient(
+#         email="eldoradogpt2025@gmail.com",
+#         password="JT1215060000",
+#         interval=1.5
+#     )
 
-# group all of them
-allLessons = opLessons + LegacyLessons + progessLessons
+#     # Examples:
+#     client.read_all_lessons()
+#     # print(client.count_all_variations())
+#     # print(client.get_opening_courses())
 
-# count all existant lessons
-# print(countAllLessonsVariations(cookies))
-# exit()
+print("legacy courses")
+lessons = getProgressLesosns()
+for l in lessons:
+    readLesson(l)
 
-# start reading
-for lesson in range(len(allLessons)):
-    print(f"============= [{lesson}] ==========")
-    readLesson(allLessons[-lesson])
-    time.sleep(1)
+print("Reading openings")
