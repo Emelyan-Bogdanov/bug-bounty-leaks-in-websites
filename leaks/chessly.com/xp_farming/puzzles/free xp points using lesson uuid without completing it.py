@@ -20,7 +20,7 @@ def send_request(uuid):
         "Referer": "https://chessly.com/",
         "Origin": "https://chessly.com",
         "Connection": "keep-alive",
-        "Cookie": "_ga=GA1.1.984846494.1775748892; _ga_PNQ0H99BWZ=GS2.1.s1775748891$o1$g1$t1775749597$j13$l0$h0; __Secure-cst=kPbghwJjpcBShY83b6p_U3BCmiIvQSL30CozNcGqBlEM",
+        "Cookie": "_ga=GA1.1.984846494.1775748892; _ga_PNQ0H99BWZ=GS2.1.s1775748891$o1$g1$t1775749597$j13$l0$h0; __Secure-cst=X7M-5V9vz4e3eAct6mHYN3JY22SPjEdQQftsvBBpBbEu",
         "Sec-Fetch-Dest": "empty",
         "Sec-Fetch-Mode": "cors",
         "Sec-Fetch-Site": "same-site",
