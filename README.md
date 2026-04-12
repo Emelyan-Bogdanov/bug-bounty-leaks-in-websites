@@ -37,3 +37,7 @@ in this repository , i put all bugs i found in all websites
   - you extract the cookies from your account , and you replace it in the accoun
   - you can read the same variation more than 5 times
   - wait like 3-7 minutes , so the system generate new uuid for the lessons (`if you keep without waiting , you're litterally wasting your time , because you'll see somthing like Response Body: {"points":0,"challengePoints":0} , that means no points added`)
+
+
+## 8. _Secure-cst cookie in (chessly)[chessly.com]
+  - the cst is a `SWR React Query Cache Key`or maybe `Opaque token`
