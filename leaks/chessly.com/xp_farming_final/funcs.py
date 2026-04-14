@@ -78,7 +78,7 @@ def extract_study_from_chapter(uuid):
     }
     # print(url)
     response = requests.get(url, headers=headers)
-    print(response.text)
+    # print(response.text)
     if response.status_code == 200:
         data = response.json()
         # Extract all studyId values
