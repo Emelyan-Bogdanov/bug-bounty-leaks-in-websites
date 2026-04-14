@@ -51,3 +51,9 @@ def send_chessly_game(
     print(response.text)
 
 
+"""
+Data 1 : 
+
+{"sanMoves":["e4","e5","Nc3","Nc6","g3","Nf6","Bg2","Bc5","Nge2","O-O","O-O","d6","Na4","Bb6","Nxb6","axb6","d4","exd4","Nxd4","Re8","Nxc6","bxc6","Re1","Bb7","Bg5","d5","exd5","Rxe1+","Qxe1","cxd5","Bxf6","Qxf6","b3","h6","c4","c6","cxd5","cxd5","Qd1","Rd8","Rb1","d4","Qd3","Bxg2","Kxg2","Qc6+","Qf3","Qxf3+","Kxf3","d3","Ke3","d2","Rd1","f5","Rxd2","Rxd2","Kxd2","Kf7","Kd3","Ke6","Kd4","Kd6","b4","Kc6","f4","g5","a4","gxf4","gxf4","h5","h4","b5","a5","Kb7","Ke5","Ka6","Kxf5","Kb7","Ke6","Ka6","f5","Kb7","f6","Kc7","f7","Kc6","f8=Q","Kb7","Qh8","Ka6","Qxh5","Kb7","Qd5+","Ka6","Qf5","Kb7","h5","Ka6","h6","Kb7","h7","Ka6","h8=R","Kb7","Rd8","Kc7","Ke7","Kc6","Qc5+","Kb7","Qc8+","Ka7","Rd7#"],"botCourse":"0897f49e-d26d-42f5-82e9-ce37307b760a","botDifficulty":"easy","deviationMoveIndex":24,"lastFEN":"2Q5/k2RK3/8/Pp6/1P6/8/8/8 b - - 10 57","startFEN":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1","userColor":"w","winnerColor":"w","settings":{"deviationEnabled":true,"courseChapters":[]}}
+
+"""
