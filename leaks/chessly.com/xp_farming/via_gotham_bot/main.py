@@ -78,7 +78,9 @@ def v(ui="775a4eea-5a50-47da-b7dd-5790ef829fbe"):
     print(response.text)
 
 while True :
-    v(input("Bot uuid : "))
+    v("775a4eea-5a50-47da-b7dd-5790ef829fbe")
+    v("fb973fb9-8cb3-4ac4-9ed0-42f882cf9a2b")
+    time.sleep(2)
 """
 fb973fb9-8cb3-4ac4-9ed0-42f882cf9a2b
 775a4eea-5a50-47da-b7dd-5790ef829fbe
