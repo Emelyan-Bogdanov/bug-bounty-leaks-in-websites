@@ -10,7 +10,7 @@ all_openings = get_openings_courses()
 time.sleep(1)  # intervall
 
 # for each course , extract chapters
-for course in all_openings:
+for course in all_openings[::-1]:
 
     chapters = extract_chapter_from_course(course)
     time.sleep(2)  # interval
