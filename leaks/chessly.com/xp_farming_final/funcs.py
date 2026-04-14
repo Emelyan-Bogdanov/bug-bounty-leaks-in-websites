@@ -154,3 +154,33 @@ def readVariation(uuid):
         else:
             print(Fore.RED, "                    [x] no points ", Style.RESET_ALL)
             time.sleep(1) # wait only if there is points
+
+
+def solve_lesson_puzzle(uuid):
+    global COOKIE
+    url = f"https://cag.chessly.com/beta/progress/openings/studies/variations/{uuid}/drills/completion"
+    headers = {
+        "Host": "cag.chessly.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Referer": "https://chessly.com/",
+        "Origin": "https://chessly.com",
+        "Connection": "keep-alive",
+        "Cookie": COOKIE,
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+    }
+    response = requests.post(url, headers=headers)
+    print(f"UUID: {uuid} - Status Code: {response.status_code}")
+    print("Response Body:", response.text)
+    # if 5 points => re read the same lesson
+    # points
+    points = response.json()["points"]
+    if points > 0:
+        print(f"Points > {points} ==> read again")
+        time.sleep(2)
+        solve_lesson_puzzle(uuid)
+    else:
+        print("enough points ==> next lesson part")

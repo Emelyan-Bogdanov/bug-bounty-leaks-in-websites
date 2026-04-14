@@ -30,4 +30,7 @@ for course in all_openings[::-1]:
             
             # for each variation => read it
             for var in variations :
+                # read lesson 
                 readVariation(var)
+                # solve puzzle
+                solve_lesson_puzzle(study)
