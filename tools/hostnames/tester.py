@@ -66,7 +66,7 @@ def format_result(r: dict) -> str:
 
 # --- Load results_hosts.txt ---
 hosts = []
-with open("hostnames/1/1.txt") as f:
+with open("hostnames/2/top_14l_hostnames.txt") as f:
     for line in f:
         line = line.strip()
         if "=>" in line:
