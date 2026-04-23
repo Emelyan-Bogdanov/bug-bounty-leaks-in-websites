@@ -1,0 +1,4 @@
+1. test if it comes to a page web , or a socket
+    - HTTP/HTTPS Probe — Is it a web server?
+2. scan open ports
+3. test if it is an api endpoint
