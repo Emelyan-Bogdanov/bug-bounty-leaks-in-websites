@@ -1,0 +1,1549 @@
+{
+  "resolved": [
+    {
+      "subdomain": "api.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.138.67",
+        "104.18.141.67",
+        "104.18.140.67",
+        "104.18.137.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "shop.chess.com",
+      "ips": [
+        "104.18.138.67",
+        "104.18.137.67",
+        "104.18.141.67",
+        "104.18.140.67",
+        "104.18.139.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "www.chess.com",
+      "ips": [
+        "104.18.141.67",
+        "104.18.140.67",
+        "104.18.137.67",
+        "104.18.139.67",
+        "104.18.138.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "assets.chess.com",
+      "ips": [
+        "104.18.140.67",
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.138.67",
+        "104.18.137.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "admin.chess.com",
+      "ips": [
+        "104.18.141.67",
+        "104.18.139.67",
+        "104.18.137.67",
+        "104.18.140.67",
+        "104.18.138.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "tracking.chess.com",
+      "ips": [
+        "104.18.137.67",
+        "104.18.139.67",
+        "104.18.138.67",
+        "104.18.141.67",
+        "104.18.140.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "support.chess.com",
+      "ips": [
+        "104.18.140.67",
+        "104.18.138.67",
+        "104.18.137.67",
+        "104.18.141.67",
+        "104.18.139.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "live.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.137.67",
+        "104.18.140.67",
+        "104.18.138.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "blog.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.137.67",
+        "104.18.138.67",
+        "104.18.140.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "events.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.138.67",
+        "104.18.137.67",
+        "104.18.140.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "preview.chess.com",
+      "ips": [
+        "104.18.141.67",
+        "104.18.137.67",
+        "104.18.138.67",
+        "104.18.140.67",
+        "104.18.139.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    }
+  ],
+  "unresolved": [
+    {
+      "subdomain": "staging.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "dev.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "status.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "images.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "help.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "media.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ws.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mail.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stream.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "analytics.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "email.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NO_ANSWER"
+    },
+    {
+      "subdomain": "forum.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "test.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "img.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stats.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "beta.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "club.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "store.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "community.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "static.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "secure.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "login.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "payment.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "signup.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "checkout.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "internal.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "auth.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "socket.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "docs.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "intranet.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "jira.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "wiki.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "sandbox.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "git.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "jenkins.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "confluence.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "m.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "app.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "partners.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "upload.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mobile.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "remote.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "web.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "news.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "vpn.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ratings.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "register.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "developer.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "leaderboard.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "download.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "desktop.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "tv.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "puzzles.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "jobs.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "radio.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "affiliate.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "legal.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "tournaments.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "podcast.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "press.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "lessons.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "contact.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "about.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mx1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "videos.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "proxy.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "terms.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn3.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ns1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "gateway.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "node2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "careers.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mx2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "lb.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "privacy.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "loadbalancer.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "elastic.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "node1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ns2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "kibana.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "prometheus.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "db.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stage.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cache.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "feature.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "branch.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "origin.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "redis.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "monitoring.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "monitor.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "logging.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "prod.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "origin-www.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "production.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "proxy.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "database.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "grafana.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "direct.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stage-api.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "dev-api.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "alert.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "edge.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "review.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    }
+  ],
+  "all": [
+    {
+      "subdomain": "staging.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "dev.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "status.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "images.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "help.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "media.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ws.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mail.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "api.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.138.67",
+        "104.18.141.67",
+        "104.18.140.67",
+        "104.18.137.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "stream.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "analytics.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "shop.chess.com",
+      "ips": [
+        "104.18.138.67",
+        "104.18.137.67",
+        "104.18.141.67",
+        "104.18.140.67",
+        "104.18.139.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "www.chess.com",
+      "ips": [
+        "104.18.141.67",
+        "104.18.140.67",
+        "104.18.137.67",
+        "104.18.139.67",
+        "104.18.138.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "email.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NO_ANSWER"
+    },
+    {
+      "subdomain": "assets.chess.com",
+      "ips": [
+        "104.18.140.67",
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.138.67",
+        "104.18.137.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "admin.chess.com",
+      "ips": [
+        "104.18.141.67",
+        "104.18.139.67",
+        "104.18.137.67",
+        "104.18.140.67",
+        "104.18.138.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "forum.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "tracking.chess.com",
+      "ips": [
+        "104.18.137.67",
+        "104.18.139.67",
+        "104.18.138.67",
+        "104.18.141.67",
+        "104.18.140.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "test.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "img.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stats.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "beta.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "club.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "support.chess.com",
+      "ips": [
+        "104.18.140.67",
+        "104.18.138.67",
+        "104.18.137.67",
+        "104.18.141.67",
+        "104.18.139.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "store.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "live.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.137.67",
+        "104.18.140.67",
+        "104.18.138.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "community.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "static.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "secure.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "login.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "payment.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "signup.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "checkout.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "internal.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "auth.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "socket.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "blog.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.137.67",
+        "104.18.138.67",
+        "104.18.140.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "docs.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "intranet.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "jira.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "wiki.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "sandbox.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "git.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "jenkins.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "confluence.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "m.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "app.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "partners.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "upload.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mobile.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "remote.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "web.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "news.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "vpn.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ratings.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "register.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "developer.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "leaderboard.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "download.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "desktop.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "tv.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "puzzles.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "jobs.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "radio.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "affiliate.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "legal.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "tournaments.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "events.chess.com",
+      "ips": [
+        "104.18.139.67",
+        "104.18.141.67",
+        "104.18.138.67",
+        "104.18.137.67",
+        "104.18.140.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "podcast.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "press.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "lessons.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "contact.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "about.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mx1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "videos.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "proxy.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "terms.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cdn3.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ns1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "gateway.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "node2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "careers.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "mx2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "lb.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "privacy.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "loadbalancer.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "elastic.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "node1.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "ns2.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "kibana.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "prometheus.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "db.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stage.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "cache.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "preview.chess.com",
+      "ips": [
+        "104.18.141.67",
+        "104.18.137.67",
+        "104.18.138.67",
+        "104.18.140.67",
+        "104.18.139.67"
+      ],
+      "type": "A",
+      "status": "RESOLVED"
+    },
+    {
+      "subdomain": "feature.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "branch.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "origin.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "redis.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "monitoring.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "monitor.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "logging.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "prod.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "origin-www.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "production.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "proxy.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "database.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "grafana.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "direct.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "stage-api.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "dev-api.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "alert.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "edge.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    },
+    {
+      "subdomain": "review.chess.com",
+      "ips": [],
+      "type": "A",
+      "status": "NXDOMAIN"
+    }
+  ],
+  "timestamp": "2026-05-15T17:50:37.968736",
+  "config": {
+    "domain": "chess.com",
+    "wordlist_size": 117
+  }
+}
